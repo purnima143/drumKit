@@ -1,2 +1,2 @@
 # drumKit
-Using HTML,CSS and JS we created a drumkit website
+Using HTML,CSS and JS I created a drumkit website
